@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2017, 5:27:38 AM
+    Author     : Nguyen Euler
+*/
+table
+{
+    border:solid 2px black;
+    border-collapse: collapse;
+    
+}
+th
+{
+    background-color: greenyellow;
+}
+th,td
+{
+    width: 200px;
+    border:solid 1px black;
+    text-align: center;
+}
+form
+{
+    border:solid 2px chocolate;
+    padding:20px;
+    width: 300px;
+    box-shadow: 5px 5px 2px #888888;
+}
+caption
+{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color:darkcyan;
+}
